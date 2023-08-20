@@ -1,8 +1,8 @@
-# AUTHENTICATOR
+# NEXT.JS-AUTHENTICATOR
 
 ## ABOUT
 
-This repository contains a section of a web application built using Next.js, NextAuth.js, and MongoDB for authentication and data storage. It provides a foundation for implementing user authentication and managing user data within your Next.js application.
+This repository contains a web application section built using Next.js, NextAuth.js, and MongoDB for authentication and data storage. It provides a foundation for implementing user authentication and managing user data within your Next.js application.
 
 ## Getting Started
 
@@ -32,3 +32,4 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deployment
+Visit Vercel deployment [here](https://next-js-authenticatior.vercel.app/). 
